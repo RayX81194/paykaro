@@ -1,4 +1,4 @@
-# PayKaro - The Future of Payment
+# PayKaro - The New Generation of Payment Method
 
 Welcome to the PayKaro website! PayKaro is an innovative payment method designed to make transactions seamless, secure, and efficient. Our mission is to revolutionize how people handle payments by providing an easy-to-use platform with cutting-edge technology.
 
